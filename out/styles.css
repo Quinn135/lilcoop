@@ -4,6 +4,12 @@ body {
     font-family: serif;
 
     padding: 0.5rem;
+
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 flex {
