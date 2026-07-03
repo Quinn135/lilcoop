@@ -6,10 +6,6 @@ body {
     padding: 0.5rem;
 }
 
-i {
-    font-size: 0.7rem;
-}
-
 flex {
     display: flex;
 }
